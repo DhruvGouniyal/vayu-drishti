@@ -1,0 +1,75 @@
+{
+  "voice": "en-IN-PrabhatNeural",
+  "rate": "+10%",
+  "padding_seconds": 0.5,
+  "lead_in_seconds": 0.4,
+  "scene_hold_seconds": {
+    "7": 2.5
+  },
+  "clips": [
+    {
+      "id": "s1_hook",
+      "scene": 1,
+      "text": "November 2024. Chandigarh, the City Beautiful, recorded an AQI of 427, worse than Delhi. And nobody saw it coming."
+    },
+    {
+      "id": "s2_problem",
+      "scene": 2,
+      "text": "Every October, farmers across Punjab and Haryana burn paddy stubble, and the wind carries that smoke into our city. Our monitoring stations tell us how bad the air is right now. But they can't tell us about tomorrow, or where the smoke is coming from."
+    },
+    {
+      "id": "s3_hidden",
+      "scene": 3,
+      "text": "There's another catch. Satellite fire counts are falling year after year. But many fires burn between satellite passes, so the counts miss them. The smoke still arrives."
+    },
+    {
+      "id": "s4_intro",
+      "scene": 4,
+      "text": "Meet Vayu Drishti, an AI early-warning system for Chandigarh's air."
+    },
+    {
+      "id": "s4_1_detect",
+      "scene": 4,
+      "text": "First, it detects every fire across Punjab and Haryana from NASA satellites, several times a day."
+    },
+    {
+      "id": "s4_2_burnscar",
+      "scene": 4,
+      "text": "Second, a deep-learning model scans Sentinel-2 images for freshly burnt fields, catching the fires the satellites missed."
+    },
+    {
+      "id": "s4_3_trace",
+      "scene": 4,
+      "text": "Third, it traces the smoke. Using wind forecasts, it follows the air hour by hour and works out which fires will reach Chandigarh, and when."
+    },
+    {
+      "id": "s4_4_forecast",
+      "scene": 4,
+      "text": "Fourth, a machine-learning model forecasts air quality forty-eight hours ahead for every monitoring station, and estimates how much comes from farm fires, from which districts, and how much is local."
+    },
+    {
+      "id": "s5_action",
+      "scene": 5,
+      "text": "Then it acts. Schools, hospitals and citizens get an alert the evening before, in Punjabi, Hindi or English. And enforcement teams get a list of the districts that matter most for our air."
+    },
+    {
+      "id": "s6_dpi",
+      "scene": 6,
+      "text": "It runs entirely on free, open data, and shares its forecasts through an open API. Built for Chandigarh, ready for any city on the plains."
+    },
+    {
+      "id": "s7_close",
+      "scene": 7,
+      "text": "Vayu Drishti. Smog shouldn't be a surprise."
+    }
+  ],
+  "planned_seconds": {
+    "1": 12,
+    "2": 18,
+    "3": 14,
+    "4": 44,
+    "5": 14,
+    "6": 11,
+    "7": 7
+  }
+}

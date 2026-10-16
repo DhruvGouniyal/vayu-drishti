@@ -1,0 +1,107 @@
+{
+ "chandigarh": {
+  "lat": 30.7333,
+  "lon": 76.7794
+ },
+ "stations": [
+  {
+   "key": "sector22",
+   "name": "Sector 22, Chandigarh - CPCC",
+   "lat": 30.735567,
+   "lon": 76.775714
+  },
+  {
+   "key": "sector25",
+   "name": "Sector 25, Chandigarh - CPCC",
+   "lat": 30.751462,
+   "lon": 76.762879
+  },
+  {
+   "key": "sector53",
+   "name": "Sector 53, Chandigarh - CPCC",
+   "lat": 30.719859,
+   "lon": 76.738637
+  }
+ ],
+ "season": 2024,
+ "detectionsPerSeason": [
+  {
+   "year": 2023,
+   "count": 78788
+  },
+  {
+   "year": 2024,
+   "count": 53220
+  },
+  {
+   "year": 2025,
+   "count": 32095
+  }
+ ],
+ "topDistricts": [
+  {
+   "district": "Sangrur",
+   "count": 5293,
+   "centroid": [
+    75.81,
+    30.211
+   ]
+  },
+  {
+   "district": "Firozpur",
+   "count": 3153,
+   "centroid": [
+    74.652,
+    30.848
+   ]
+  },
+  {
+   "district": "Bathinda",
+   "count": 2132,
+   "centroid": [
+    75.038,
+    30.178
+   ]
+  },
+  {
+   "district": "Muktsar",
+   "count": 2121,
+   "centroid": [
+    74.515,
+    30.283
+   ]
+  },
+  {
+   "district": "Tarn Taran",
+   "count": 2003,
+   "centroid": [
+    74.848,
+    31.327
+   ]
+  },
+  {
+   "district": "Moga",
+   "count": 1926,
+   "centroid": [
+    75.149,
+    30.793
+   ]
+  },
+  {
+   "district": "Patiala",
+   "count": 1677,
+   "centroid": [
+    76.324,
+    30.238
+   ]
+  },
+  {
+   "district": "Mansa",
+   "count": 1588,
+   "centroid": [
+    75.478,
+    29.879
+   ]
+  }
+ ]
+}
